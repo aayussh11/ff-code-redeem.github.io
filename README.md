@@ -1,3 +1,4 @@
+# ff-code-redeem.github.io
 
 <!doctype html>
 <html> 
@@ -38,7 +39,7 @@ Select Gender <input type="radio" name="gender">Male
 3. Please note redemption expiration date. Any expired codes cannot be redeemed.<br>
 4. Please contact customer service if you encountered any issue.<br>
 5. Reminder: you will not be able to redeem your rewards with guest accounts. You may bind your account to Facebook or VK in order to receive the rewards.</p>
- 
+
 <img src="C:\Users\HCC\OneDrive\Desktop\lol.jpg" height="600" width="1340">
  </form>
 </body>  
@@ -54,3 +55,12 @@ Select Gender <input type="radio" name="gender">Male
 
 
 </html>
+
+
+
+
+
+
+
+
+
