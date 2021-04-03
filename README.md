@@ -1,5 +1,4 @@
 
-
 <!doctype html>
 <html> 
 <head> <title> Free Fire Official </title> 
@@ -55,12 +54,3 @@ Select Gender <input type="radio" name="gender">Male
 
 
 </html>
-
-
-
-
-
-
-
-
-
